@@ -5,7 +5,7 @@ Soy un desarrollador de software apasionado por crear soluciones innovadoras y e
 Tengo experiencia en el desarrollo de aplicaciones web y móviles, trabajando principalmente con tecnologías como Angular, NestJS, Ionic y Firebase. 
 Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
 
-### 💼 Proyectos Destacados
+### 💼 Proyecto Destacado
 - **[Sistema de campañas y donación de sangre](url):** Un sistema integral para gestionar campañas de donación de sangre, que incluye aplicaciones web y móviles. Utiliza tecnologías como Angular, ionic, y Firebase.
 
 ### 🌟 Habilidades
@@ -13,11 +13,11 @@ Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente
 - **Backend:** NestJS, Node.js, Express, Laravel, php, JavaScript, TypeScript
 - **Móvil:** Ionic, Capacitor, Flutter
 - **Base de Datos:** PostgreSQL, Firebase Firestore and RealTime
-- **Otras:** RDF, SPARQL, JWT, Google Maps API
+- **Otras:** JWT, Google Maps API
 
 ### 🛠️ Herramientas y Tecnologías
-- **Version Control:** Git, GitHub
-- **IDE/Editor:** VS Code, Eclipse
+- **Control de Versiones:** Git, GitHub
+- **IDE/Editor:** VS Code, Netbeans, Visual Studio
 
 ### 📫 Contáctame
 - **Correo:** kevinzambrano593@gmail.com
